@@ -74,5 +74,6 @@ safety_helmet_recognition/train.py
 4、以上介绍的各项功能都以是单独功能模块，组合起来可以实现人脸识别，目标检测，特定业务的目标检测等。
 
 所用相关模型文件可以通过下面百度网盘链接进行下载：
-
+链接：https://pan.baidu.com/s/1VMqkFPoblt2xf47cLgAl6Q 
+提取码：wwma 
 
